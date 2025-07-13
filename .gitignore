@@ -1,0 +1,24 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+# Ignore logs directory
+/src/test/resources/logs/
+
+# Ignore Reports directory
+/src/test/resources/Reports/
+
+# Ignore Screenshots directory
+/src/test/resources/Screenshots/
+
+*.bat
