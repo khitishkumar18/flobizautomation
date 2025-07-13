@@ -3,7 +3,7 @@
 
 📝 Overview
 
-This project is an Automation Framework using \*\*TestNG\*\* and \*\*ExtentReports\*\*. It follows the \*\*Page Object Model (POM)\*\* for organizing page classes and reusable utilities.
+This project is an Automation Framework using TestNG and ExtentReports. It follows the Page Object Model (POM) for organizing page classes and reusable utilities.
 
 
 📂 Project Structure
