@@ -1,15 +1,12 @@
-\# 🚀 Test Automation Framework
+🚀 Test Automation Framework
 
 
-
-\## 📝 Overview
+📝 Overview
 
 This project is an Automation Framework using \*\*TestNG\*\* and \*\*ExtentReports\*\*. It follows the \*\*Page Object Model (POM)\*\* for organizing page classes and reusable utilities.
 
 
-
-\## 📂 Project Structure
-
+📂 Project Structure
 
 
 src/main/java/com/testautomationframework/
@@ -61,55 +58,53 @@ src/test/resources/
 
 
 
-\## 📦 Maven Dependencies (`pom.xml`)
+📦 Maven Dependencies (`pom.xml`)
 
-\- 🧪 Selenium WebDriver  
+- 🧪 Selenium WebDriver  
 
-\- ✅ TestNG  
+- ✅ TestNG  
 
-\- 📊 ExtentReports  
+- 📊 ExtentReports  
 
-\- 📝 Log4j  
+- 📝 Log4j  
 
-\- 🔧 WebDriverManager  
-
-
-
-\## ▶️ Test Suite Execution
-
-\- The `testng.xml` file defines the test suite and test cases to run.  (mvn test -DsuiteXmlFile=testng.xml) 
-
-\- Run tests via your IDE or command line using this file.
+- 🔧 WebDriverManager  
 
 
 
-\## ⚙️ How to Use
+▶️ Test Suite Execution
 
-1\. Run tests with `testng.xml` in your IDE or command line.  
+- The `testng.xml` file defines the test suite and test cases to run.  (mvn test -DsuiteXmlFile=testng.xml) 
 
-2\. After tests complete, view reports in the `reports` folder and screenshots in the `screenshots` folder.
-
-
-
-\## ✨ Features
-
-\- Organized with Page Object Model  
-
-\- Automatic retry for failed tests  
-
-\- Beautiful, detailed ExtentReports  
-
-\- Screenshots captured on test pass/failure  
-
-\- Configurable via `config.properties`  
-
-\- Detailed logs using Log4j  
+- Run tests via your IDE or command line using this file.
 
 
 
-\## 📞 Contact
+⚙️ How to Use
 
-\*\*Khitish Kumar Nayak\*\*  
+1. Run tests with `testng.xml` in your IDE or command line.  
 
-📱 7008784532
+2. After tests complete, view reports in the `reports` folder and screenshots in the `screenshots` folder.
+
+
+
+✨ Features
+
+- Organized with Page Object Model  
+
+- Automatic retry for failed tests  
+
+- Beautiful, detailed ExtentReports  
+
+- Screenshots captured on test pass/failure  
+
+- Configurable via `config.properties`  
+
+- Detailed logs using Log4j  
+
+
+
+📞 Contact
+
+Khitish Kumar Nayak | 📱 7008784532
 
